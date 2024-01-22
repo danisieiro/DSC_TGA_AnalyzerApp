@@ -1,0 +1,30 @@
+{
+  "Trazo": {
+    "-": "-",
+    "--": "--",
+    "-.": "-.",
+    ":": ":"
+  },
+  "Color": {
+    "Red": "#FF0000",
+    "Green": "#00FF00",
+    "Blue": "#0000FF",
+    "Yellow": "#FFFF00",
+    "Orange": "#FFA500",
+    "Pink": "#FFC0CB",
+    "Purple": "#800080",
+    "Turquoise": "#40E0D0",
+    "Brown": "#A52A2A",
+    "Gray": "#808080",
+    "White": "#FFFFFF",
+    "Black": "#000000",
+    "Cyan": "#00FFFF",
+    "Magenta": "#FF00FF",
+    "Lime": "#00FF00",
+    "Gold": "#FFD700",
+    "Silver": "#C0C0C0",
+    "Violet": "#8A2BE2",
+    "Olive": "#808000",
+    "Navy": "#000080"
+  }
+}

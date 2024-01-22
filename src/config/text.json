@@ -1,0 +1,17 @@
+{
+  "Espanol": {
+    "Temp": "Temperatura / °C",
+    "% Mass": "% Masa",
+    "HF": "Flujo de calor / $W \\cdot g^{-1}$"
+  },
+  "English": {
+    "Temp": "Temperature / °C",
+    "% Mass": "% Mass",
+    "HF": "Heat Flow / $W \\cdot g^{-1}$"
+  },
+  "Galego": {
+    "Temp": "Temperatura / °C",
+    "% Mass": "% Masa",
+    "HF": "Fluxo de calor / $W \\cdot g^{-1}$"
+  }
+}
